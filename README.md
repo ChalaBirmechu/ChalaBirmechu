@@ -1,11 +1,50 @@
-- 👋 Hi, I’m Chala Birmechu Negesa
-- 👀 I’m interested in Software Development,Fundamentl Programming and AI projects.
-- 🌱 I’m currently learning Mobile Application Development, Fullstack Web Development and Other similars.
-- 💞️ I’m looking to collaborate on Mobile and Web Development projects.
-- 📫 How to reach me: chalabirmechu@gmail.com
-- 😄 Pronouns: Him
-- ⚡ Fun fact: I love solve Software development problem.
+# 👋 Hi, I’m Chala Birmechu Negesa  
 
-<!---
-Oromia , South west Shewa , Woliso , Ameya
---->
+🎓 **Software Engineering** | 💻 **Developer** | 🤖 **AI Learner**
+
+I’m passionate about building software solutions and continuously improving my skills in modern technologies.
+
+## 👀 Interests
+- Software Development  
+- Fundamental Programming  
+- Artificial Intelligence Projects  
+
+## 🌱 Currently Learning
+- 📱 Mobile Application Development  
+- 🌐 Full-Stack Web Development  
+- 🧠 Software Engineering Best Practices  
+
+## 💞️ Looking to Collaborate On
+- Mobile Application Projects  
+- Web Development Projects  
+- Open-Source Contributions  
+
+## 📫 Contact Me
+- 📧 Email: **chalabirmechu@gmail.com**
+- 🌍 Portfolio: **https://chalabirmechngs.vercel.app**
+
+## 😄 Pronouns
+- **He / Him**
+
+## ⚡ Fun Fact
+- I love solving **software development problems** and learning from challenges 🚀
+
+## 🌐 Portfolio
+🔗 **https://chalabirmechngs.vercel.app**
+
+## 🚀 Live Projects
+
+### 🧑‍💻 Personal Portfolio Website
+- 🔗 **Live Demo:** https://chalabirmechngs.vercel.app  
+- 💻 **Repository:** https://github.com/ChalaBirmechu/portfolio  
+- 🛠 Tech: HTML • CSS • JavaScript  
+
+### 🧩 Full-Stack Web Project
+- 🔗 **Live Demo:** _(coming soon)_  
+- 💻 **Repository:** https://github.com/ChalaBirmechu/Full-Stack  
+- 🛠 Tech: Frontend • Backend • Database  
+
+
+## 📍 Location
+📌 Ethiopia, Finfinne, Oromia,
+
