@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://youtu.be/nyzzTM2M1WQ" target="_blank">
-    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/maxresdefault.jpg" width="700" alt="Watch my developer intro" />
+  <a href="https://youtu.be/nyzzTM2M1WQ">
+    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/0.jpg" width="800" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 🎓 **Software Engineering** | 💻 **Developer** | 🤖 **AI Learner**
 
 <p align="center">
-  <img src="coder.png" width="400" />
+  <img src="coder.png" width="500" />
 </p>
 
 I’m passionate about building software solutions and continuously improving my skills in modern technologies.
