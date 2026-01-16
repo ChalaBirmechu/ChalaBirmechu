@@ -1,6 +1,15 @@
+<p align="center">
+  <a href="https://youtu.be/nyzzTM2M1WQ">
+    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/0.jpg" width="600" />
+  </a>
+</p>
 # 👋 Hi, I’m Chala Birmechu Negesa  
 
 🎓 **Software Engineering** | 💻 **Developer** | 🤖 **AI Learner**
+
+<p align="center">
+  <img src="coder.png" width="300" />
+</p>
 
 I’m passionate about building software solutions and continuously improving my skills in modern technologies.
 
@@ -46,5 +55,5 @@ I’m passionate about building software solutions and continuously improving my
 
 
 ## 📍 Location
-📌 Ethiopia, Finfinne, Oromia,
+📌 Ethiopia, Finfinne, Oromia
 
