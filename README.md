@@ -1,22 +1,22 @@
-<!DOCTYPE html>
-<html>
-<body>
-  <iframe width="900" height="300" 
-          src="https://www.youtube.com/embed/nyzzTM2M1WQ"
-          frameborder="0" allowfullscreen>
-  </iframe>
-</body>
-</html>
+<p align="center">
+  <a href="https://youtu.be/nyzzTM2M1WQ" target="_blank">
+    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/hqdefault.jpg" width="900" height="300" alt="Watch my developer intro" />
+  </a>
+</p>
+
+<p align="center">
+  🎬 <a href="https://youtu.be/nyzzTM2M1WQ">Watch my developer intro video on YouTube</a>
+</p>
+
 
 # 👋 Hi, I’m Chala Birmechu Negesa  
 
 🎓 **BSc in Software Engineering** | 💻 **Developer** | 🤖 **AI Learner**
+I’m passionate about building software solutions and continuously improving my skills in modern technologies.
 
 <p align="center">
-  <img src="coder.png" width="700" height="300" />
+  <img src="coder.png" width="800" height="300" />
 </p>
-
-I’m passionate about building software solutions and continuously improving my skills in modern technologies.
 
 ## 👀 Interests
 - Software Development  
