@@ -1,22 +1,25 @@
 <p align="center">
-  <a href="https://youtu.be/nyzzTM2M1WQ" target="_blank">
-    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/hqdefault.jpg" width="900" height="300" alt="Watch my developer intro" />
+  <a href="https://htmlpreview.github.io/?https://github.com/yourusername/yourrepo/main/autoplay.html" target="_blank">
+    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/hqdefault.jpg" width="900" height="300" alt="Click for autoplaying video" />
   </a>
 </p>
-
 <p align="center">
-  🎬 <a href="https://youtu.be/nyzzTM2M1WQ">Watch my developer intro video on YouTube</a>
+  <small>🔴 <a href="https://htmlpreview.github.io/?https://github.com/yourusername/yourrepo/main/autoplay.html">Click for autoplaying version</a> | 
+  🎬 <a href="https://youtu.be/nyzzTM2M1WQ">Watch with sound on YouTube</a></small>
 </p>
 
 
 # 👋 Hi, I’m Chala Birmechu Negesa  
 
 🎓 **BSc in Software Engineering** | 💻 **Developer** | 🤖 **AI Learner**
+
 I’m passionate about building software solutions and continuously improving my skills in modern technologies.
 
+
 <p align="center">
-  <img src="coder.png" width="800" height="300" />
+  <img src="coder.png" width="700" height="300" />
 </p>
+
 
 ## 👀 Interests
 - Software Development  
