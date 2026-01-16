@@ -1,11 +1,7 @@
 <p align="center">
-  <a href="https://htmlpreview.github.io/?https://github.com/yourusername/yourrepo/main/autoplay.html" target="_blank">
-    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/hqdefault.jpg" width="900" height="300" alt="Click for autoplaying video" />
+  <a href="https://youtu.be/nyzzTM2M1WQ">
+    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/0.jpg" width="900" height="400" />
   </a>
-</p>
-<p align="center">
-  <small>🔴 <a href="https://htmlpreview.github.io/?https://github.com/yourusername/yourrepo/main/autoplay.html">Click for autoplaying version</a> | 
-  🎬 <a href="https://youtu.be/nyzzTM2M1WQ">Watch with sound on YouTube</a></small>
 </p>
 
 
@@ -17,7 +13,7 @@ I’m passionate about building software solutions and continuously improving my
 
 
 <p align="center">
-  <img src="coder.png" width="700" height="300" />
+  <img src="coder.png" width="600" height="300" />
 </p>
 
 
