@@ -52,7 +52,13 @@ I’m passionate about building software solutions and continuously improving my
 - 💻 **Repository:** https://github.com/ChalaBirmechu/portfolio  
 - 🛠 Tech: HTML • CSS • JavaScript  
 
-### 🧩 Full-Stack Web Project
+### 🧑‍💻 My Udacity Profile
+- 🔗 **Live Demo:** https://community.udacity.com/u/4601c847
+
+  ### 🧩 MERN Stack Web Project
+- 🔗 **Live Demo:** https://frontend-orcin-xi-42.vercel.app
+  
+### 🧩 Full-Stack HRMS Web Project
 - 🔗 **Live Demo:** _(coming soon)_  
 - 💻 **Repository:** https://github.com/ChalaBirmechu/Full-Stack  
 - 🛠 Tech: Frontend • Backend • Database  
