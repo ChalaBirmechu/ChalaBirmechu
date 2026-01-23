@@ -1,9 +1,8 @@
-<p align="center">
-  <a href="developer_video.mp4">
-    <img src="coder.png" width="900" height="400" alt="Watch my developer video" />
+<p align="center"> 
+  <a href="https://youtu.be/nyzzTM2M1WQ">
+    <img src="https://youtu.be/nyzzTM2M1WQ" width="900" height="400" />
   </a>
 </p>
-
 
 
 # 👋 Hi, I’m Chala Birmechu Negesa  
