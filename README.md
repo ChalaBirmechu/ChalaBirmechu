@@ -1,8 +1,9 @@
-<p align="center"> 
+<p align="center">
   <a href="https://youtu.be/nyzzTM2M1WQ">
-    <img src="https://youtu.be/nyzzTM2M1WQ" width="900" height="400" />
+    <img src="https://img.youtube.com/vi/nyzzTM2M1WQ/0.jpg" width="900" height="400" />
   </a>
 </p>
+
 
 
 # 👋 Hi, I’m Chala Birmechu Negesa  
